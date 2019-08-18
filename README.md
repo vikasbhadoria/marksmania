@@ -1,2 +1,2 @@
 # marksmania
-Educational
+Educational Website
